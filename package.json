@@ -10,7 +10,7 @@
     "build": "gulp --production",
     "deploy": "npm run build && gulp deploy"
   },
-    "devDependencies": {
+  "devDependencies": {
     "@babel/core": "^7.22.11",
     "@babel/preset-env": "^7.22.14",
     "@babel/register": "^7.22.5",
@@ -42,7 +42,7 @@
     "webpack": "^5.88.2",
     "webpack-stream": "^7.0.0"
   },
-    "dependencies": {
+  "dependencies": {
     "normalize.css": "^8.0.1"
   }
 }
