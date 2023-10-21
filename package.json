@@ -11,9 +11,9 @@
     "deploy": "npm run build && gulp deploy"
   },
   "devDependencies": {
-    "@babel/core": "^7.22.11",
-    "@babel/preset-env": "^7.22.14",
-    "@babel/register": "^7.22.5",
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2",
+    "@babel/register": "^7.22.15",
     "browser-sync": "^2.29.3",
     "del": "^7.1.0",
     "gulp": "^4.0.2",
@@ -39,7 +39,7 @@
     "gulp-svg-sprite": "^2.0.3",
     "gulp-ttf2woff2": "^4.0.1",
     "gulp-webp": "^4.0.1",
-    "webpack": "^5.88.2",
+    "webpack": "^5.89.0",
     "webpack-stream": "^7.0.0"
   },
   "dependencies": {
