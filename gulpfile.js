@@ -31,6 +31,7 @@ export const watching = () => {
 	gulp.watch(paths.watch.css, styles).on('all', browserSync.reload)
 	gulp.watch(paths.watch.js, scripts).on('all', browserSync.reload)
 	gulp.watch(paths.watch.images, images).on('all', browserSync.reload)
+	gulp.watch(paths.watch.svg, images).on('all', browserSync.reload)
 	gulp.watch(paths.watch.fonts, fonts).on('all', browserSync.reload)
 }
 
