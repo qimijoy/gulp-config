@@ -10,7 +10,7 @@ This is my personal gulp-configuration for development in order to quickly start
 
 ``npm run deploy`` - build project and deploy to GitHub Pages
 
-## Project structure requirement
+## Project structure requirements
 This Gulp configuration is intended for the following project file structure:
 
 ```
