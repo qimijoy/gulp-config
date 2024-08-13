@@ -1,5 +1,5 @@
-const src = './src/';
-const dist = './dist/';
+export const src = './src/';
+export const dist = './dist/';
 
 export default {
 	clean: dist,
