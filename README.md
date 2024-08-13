@@ -2,6 +2,12 @@
 
 This is my personal gulp-configuration for development in order to quickly start build and creating a project.
 
+## Project Setup
+
+```sh
+npm ci
+```
+
 ## Commands
 
 ``npm run dev`` - start Gulp with dev-server and watching
