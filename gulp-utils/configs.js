@@ -7,7 +7,7 @@ export default {
 
 	htmlmin: {
 		collapseWhitespace: true,
-		removeComments: isProduction
+		removeComments: isProduction,
 	},
 
 	webpack: {
@@ -20,8 +20,4 @@ export default {
 	imagemin: {
 		verbose: true,
 	},
-
-	fonter: {
-		formats: ['ttf', 'woff', 'eot', 'svg']
-	}
-}
+};
